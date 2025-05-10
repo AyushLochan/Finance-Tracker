@@ -1,4 +1,3 @@
-
 # Finance Tracker 💰
 
 A simple and efficient personal finance tracker to manage your income, expenses, and budgeting all in one place.
